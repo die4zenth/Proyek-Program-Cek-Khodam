@@ -10,7 +10,7 @@ def cek_khodam(nama):
     
     return (
         f"Khodam yang menemani {nama}: {khodam}"
-        f"Pesan Khodam: {pesan}
+        f"Pesan Khodam: {pesan}"
     )
 
 nama = input("Masukkan nama kamu: ")
