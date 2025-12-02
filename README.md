@@ -1,6 +1,8 @@
 Program Cek Khodam
 
+
 Program yang kami buat (kelompok 4) ini memiliki beberapa kegunaan, yaitu yang pertama, sebagai hiburan semata untuk membantu para pengguna yang sedang merasa bosan menjadi terhibur melalui hasil cek yang bersifat acak dan lucu. Selain itu, program ini juga dapat memberikan motivasi ringan sehingga dapat menambah semangat pengguna. 
+
 
 Fitur Utama : 
 1. Import random : Mengambil data secara acak menggunakan random.choice()
@@ -12,28 +14,28 @@ Fitur Utama :
 7. Menggunakan format f string
 8. Input nama
 9. print hasil
+    
 
-Panduan Istalasi
-I. Persyaratan Sistem:
-    Sebelum memulai, pastikan perangkat Anda sudah memenuhi syarat berikut:
+Panduan Instalasi:
+1. Sebelum memulai, pastikan perangkat Anda sudah memenuhi syarat berikut:
     1. Sistem Operasi: Windows / Linux / macOS
     2. Python versi 3.8 atau lebih baru
     3. Koneksi internet (untuk mengunduh dari GitHub)
-II. Instalasi Python:
+3. Instalasi Python:
     1. Kunjungi situs resmi Python: https://www.python.org/downloads/
     2. Pilih versi yang sesuai dengan sistem operasi Anda
     3. Install Python dan centang opsi “Add Python to PATH” saat instalasi
-III. Download Projek:
-Ada 2 cara untuk mengunduh repository ini:
-1. Jika Anda sudah memiliki Git:
-   a. jalankan perintah berikut pada Command Prompt / Terminal: git clone https://github.com/rexabhinaya/Proyek-Program-Cek-Khodam
-   b. Masuk ke direktori project: cd Proyek-Program-Cek-Khodam
-2. Jika tidak memiliki Git (download ZIP):
-   a. Buka repository ini di GitHub
-   b. Klik tombol Code → Download ZIP
-   c. Ekstrak file ke dalam folder yang Anda inginkan
-#Program ini hanya menggunakan modul bawaan Python:random (Sehingga tidak perlu instalasi library tambahan)'
-
-Panduan Menjalanakan
-isi banh:v
-   
+4. Download Projek:
+    1. Jika Anda sudah memiliki Git:
+       1. jalankan perintah berikut pada Command Prompt / Terminal: git clone https://github.com/rexabhinaya/Proyek-Program-Cek-Khodam
+       2. Masuk ke direktori project: cd Proyek-Program-Cek-Khodam
+    3. Jika tidak memiliki Git (download ZIP):
+       1. Buka repository ini di GitHub
+       2. Klik tombol Code → Download ZIP
+       3. Ekstrak file ke dalam folder yang Anda inginkan
+    
+    #Program ini hanya menggunakan modul bawaan Python:random (Sehingga tidak perlu instalasi library tambahan)'
+    
+    Panduan Menjalanakan
+    isi banh:v
+       
