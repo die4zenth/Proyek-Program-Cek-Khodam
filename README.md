@@ -13,3 +13,27 @@ Fitur Utama :
 8. Input nama
 9. print hasil
 
+Panduan Istalasi
+I. Persyaratan Sistem:
+    Sebelum memulai, pastikan perangkat Anda sudah memenuhi syarat berikut:
+    1. Sistem Operasi: Windows / Linux / macOS
+    2. Python versi 3.8 atau lebih baru
+    3. Koneksi internet (untuk mengunduh dari GitHub)
+II. Instalasi Python:
+    1. Kunjungi situs resmi Python: https://www.python.org/downloads/
+    2. Pilih versi yang sesuai dengan sistem operasi Anda
+    3. Install Python dan centang opsi “Add Python to PATH” saat instalasi
+III. Download Projek:
+Ada 2 cara untuk mengunduh repository ini:
+1. Jika Anda sudah memiliki Git:
+   a. jalankan perintah berikut pada Command Prompt / Terminal: git clone https://github.com/rexabhinaya/Proyek-Program-Cek-Khodam
+   b. Masuk ke direktori project: cd Proyek-Program-Cek-Khodam
+2. Jika tidak memiliki Git (download ZIP):
+   a. Buka repository ini di GitHub
+   b. Klik tombol Code → Download ZIP
+   c. Ekstrak file ke dalam folder yang Anda inginkan
+#Program ini hanya menggunakan modul bawaan Python:random (Sehingga tidak perlu instalasi library tambahan)'
+
+Panduan Menjalanakan
+isi banh:v
+   
