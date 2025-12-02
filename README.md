@@ -1,4 +1,4 @@
-Program Cek Khodam
+# **Program Cek Khodam**
 
 
 Program yang kami buat (kelompok 4) ini memiliki beberapa kegunaan, yaitu yang pertama, sebagai hiburan semata untuk membantu para pengguna yang sedang merasa bosan menjadi terhibur melalui hasil cek yang bersifat acak dan lucu. Selain itu, program ini juga dapat memberikan motivasi ringan sehingga dapat menambah semangat pengguna. 
@@ -55,9 +55,35 @@ Sebelum kamu mulai menjalankan program cek khodam ini, pastikan kamu sudah menyi
     3. Buka terminal di perangkatmu.
     4. Arahkan terminal ke folder tempat file program disimpan.
     5. Jalankan file tersebut.
-    6. Begitu terminal meminta nama, masukkan nama kamu. Setelah itu, hasil khodam beserta pesannya akan muncul.
+    6. Begitu terminal meminta nama, masukkan nama kamu. Setelah itu, hasil khodam beserta pesannya akan muncul.   
 
-    
+```mermaid
+flowchart TD
+
+    A([START]) --> B[/Masukkan Nama/]
+    B --> C[Proses Pemilihan Random Nama Khodam]
+    C --> D[/Tampilkan Nama Khodam/]
+    D --> E([END])
+```
+### **Penjelasan:**
+
+### **1. START**
+Program dimulai dan siap menerima input dari pengguna.
+
+### **2. Masukkan Nama**
+Pengguna memasukkan nama yang akan dicek khodam-nya melalui fungsi `input()`.
+
+### **3. Pemilihan Random Nama Khodam**
+Program mengambil satu khodam secara acak dari list `daftar_khodam` menggunakan `random.choice()`.
+
+### **4. Tampilkan Nama Khodam**
+Program menampilkan:
+- Nama khodam yang terpilih
+- Pesan motivasi dari khodam tersebut
+
+### **5. END**
+Program selesai setelah hasil ditampilkan.
+
 
 Daftar Kontributor (Tabel): 
 
