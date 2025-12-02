@@ -43,4 +43,5 @@ yg lainnya isi sini banh
     
 
 Daftar Kontributor (Tabel): 
-<img width="1044" height="239" alt="image" src="https://github.com/user-attachments/assets/e9c50883-ad52-4cd1-a68d-2b660bea546c" />
+<img width="790" height="238" alt="image" src="https://github.com/user-attachments/assets/ec084d27-760c-4059-904f-6df0643c7d19" />
+
