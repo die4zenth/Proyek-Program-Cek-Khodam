@@ -36,6 +36,11 @@ Panduan Instalasi:
     
     #Program ini hanya menggunakan modul bawaan Python:random (Sehingga tidak perlu instalasi library tambahan)'
     
-    Panduan Menjalanakan
-    isi banh:v
-       
+
+
+yg lainnya isi sini banh
+
+    
+
+Daftar Kontributor (Tabel): 
+<img width="1044" height="239" alt="image" src="https://github.com/user-attachments/assets/e9c50883-ad52-4cd1-a68d-2b660bea546c" />
